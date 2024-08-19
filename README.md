@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PerOHaugstad
 - 👀 I’m interested in Game development on Unity
 - 🌱 I’m currently learning Unity C#
-- 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me PerOHaugstad@gmail.com
 
 <!---
